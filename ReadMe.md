@@ -4,6 +4,7 @@
   
 
 👨🏻‍🎓 Estudante do Sétimo Período do Curso "Superior de Licenciatura em informática" do IFRN (Instituto Federal do Rio Grande do Norte).";
+[!PPC](https://portal.ifrn.edu.br/cursos/superiores/licenciatura/informatica/)
 
 👨‍💼 Atualmente, disponível para vagas.
 
